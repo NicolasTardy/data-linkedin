@@ -1,0 +1,2 @@
+# Ne pas versionner les variables d’environnement
+.env
