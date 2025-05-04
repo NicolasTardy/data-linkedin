@@ -1,2 +1,4 @@
-# Ne pas versionner les variables d’environnement
+# macOS
+.DS_Store
+# variables d'environnement
 .env
